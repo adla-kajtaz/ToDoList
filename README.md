@@ -28,7 +28,7 @@ The backend is built using FastAPI, a modern web framework for building APIs wit
 ### Running the Backend
 
 To run the FastAPI backend, use the following commands:
-`pip install fastapi uvicorn` - Install dependencies
-`uvicorn main:app --reload` - Run the application
+- `pip install fastapi uvicorn` - Install dependencies
+- `uvicorn main:app --reload` - Run the application
 
 ## Fronted
